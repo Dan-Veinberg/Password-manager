@@ -1,9 +1,3 @@
-Absolutely 👍 — here’s a clear, polished **README.md** you can include with your project so anyone can easily understand, install, and use your console-based password manager.
-
----
-
-## 📘 README.md
-
 # 🔐 Console Password Manager (SQLite + AES-256)
 
 A simple, secure **command-line password manager** built with **Node.js** and **SQLite**.
