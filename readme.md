@@ -1,7 +1,7 @@
 # 🔐 Console Password Manager (SQLite + AES-256)
 
 A simple, secure **command-line password manager** built with **Node.js** and **SQLite**.
-All stored passwords are encrypted with **AES-256-GCM** using a key derived from your **master password** via **scrypt**. Perfect if you do not want to use any of the current commercial solutions because care about privacy. 
+All stored passwords are encrypted with **AES-256-GCM** using a key derived from your **master password** via **scrypt**. This is perfect if you do not want to use any of the current commercial solutions because you care about privacy. 
 
 ---
 
