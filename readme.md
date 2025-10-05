@@ -30,8 +30,8 @@ All stored passwords are encrypted with **AES-256-GCM** using a key derived from
 1. Clone or copy this project:
 
    ```bash
-   git clone https://github.com/yourusername/pwman.git
-   cd pwman
+   git clone https://github.com/Dan-Veinberg/Password-manager.git
+   cd Password Manager
    ```
 
 2. Initialize dependencies:
